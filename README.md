@@ -1,5 +1,5 @@
 # Project-Orion
-This the code for the Arduino core of the wrist mounted GPS Navigation device.
+This is the code for the Arduino core of the wrist mounted GPS Navigation device.
 
 
 Installation Instructions:
